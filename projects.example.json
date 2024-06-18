@@ -10,7 +10,7 @@
         "0xa43fe16908251ee70ef74718545e4fe6c5ccec9f",
         "0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc",
         "0x517f9dd285e75b599234f7221227339478d0fcc8",
-        "0x5ced44f03ff443bbe14d8ea23bc24425fb89e3ed",
+        "0x5ced44f03ff443bbe14d8ea23bc24425fb89e3ed"
         
       ],
       "processor":{
@@ -29,7 +29,7 @@
         "0xa43fe16908251ee70ef74718545e4fe6c5ccec9f",
         "0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc",
         "0x517f9dd285e75b599234f7221227339478d0fcc8",
-        "0x5ced44f03ff443bbe14d8ea23bc24425fb89e3ed",
+        "0x5ced44f03ff443bbe14d8ea23bc24425fb89e3ed"
       ],
         "processor":{
           "module": "snapshotter.modules.computes.trade_volume",
